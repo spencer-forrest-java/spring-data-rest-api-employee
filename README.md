@@ -11,7 +11,6 @@ The user can perform CRUD operations through this REST API.
 5. MySQL
 6. JDBC
 
-
 ### Description
 
 The user can perform CRUD operations on an 
@@ -52,11 +51,8 @@ Employee
 
 ### Configuration
 
-The configuration file is 
-<a href="src/main/resources/application.properties">
-application.properties
-</a>.
-
+The <a href="src/main/resources/application.properties">application.properties</a> file contains the information needed 
+for the application to connect to a database (url, username, password).
 
 ### Database
 
